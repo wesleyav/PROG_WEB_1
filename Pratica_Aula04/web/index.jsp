@@ -16,12 +16,11 @@
                 height:800px;
             }
             #celula1 {
-
                 padding:10px;
                 height:30%;
             }
             #celula2 {
-                width: 15%;
+                width:2%;
                 padding:10px;
                 height: 80%;
             }
